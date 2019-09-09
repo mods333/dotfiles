@@ -1,0 +1,8 @@
+class classname(nn.Module):
+    '''
+    '''
+    def __init__(self,):
+        
+        super(classname, self).__init__()
+    
+    def forward(self):

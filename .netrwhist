@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/scratch/ssd001/home/suhail/eGNN_faster/slurm_out'
+let g:netrw_dirhist_2='/scratch/ssd001/home/suhail/eGNN_faster'
+let g:netrw_dirhist_3='/scratch/ssd001/home/suhail/eGNN_faster/slurm_out'
